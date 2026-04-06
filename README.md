@@ -26,5 +26,5 @@ This repository provides everything you need to turn a Firebase Studio workspace
 
 Original idea & scripts from NotGamerPiie/idx-vps
 
-Pterodactyl installer by Shamod Firezz 
+Pterodactyl installer by Shamod Firezz <br>
     https://www.youtube.com/watch?v=sCB20pnwXxk
