@@ -20,3 +20,10 @@ This repository provides everything you need to turn a Firebase Studio workspace
 - A Google account
 - Access to [Firebase Studio](https://firebase.studio/) (free)
 - (Optional) Cloudflare account for domain + SSL
+
+
+Credits & Inspiration
+
+Original idea & scripts from NotGamerPiie/idx-vps
+Pterodactyl installer by Jishnu
+Community contributions from HopingBoiyz and others
